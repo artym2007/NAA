@@ -166,7 +166,7 @@ function renderCommunities() {
       <div class="comm-grid">
         <div class="comm-card">
           <img src="https://1s4oyld5dc.ucarecd.net/8fd5143c-5a69-4fc4-8297-550dc43f64e6/" alt="сообщество 1" />
-          <span class="comm-name">Многопрофильный клуб</span>
+          <span class="comm-name">Многопрофильный колледж</span>
         </div>
         <div class="comm-card">
           <img src="https://1s4oyld5dc.ucarecd.net/3f30d429-5ab9-4157-9d9e-753b26a7d1e9/" alt="сообщество 2" />
